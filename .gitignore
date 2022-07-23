@@ -1,5 +1,4 @@
 .DS_Store
 obj/
-.vscode/
 *.out
 *.vtk

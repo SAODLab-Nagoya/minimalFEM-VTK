@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "ICARAT",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include",
+                "${workspaceFolder}/vendor",
+                "${workspaceFolder}/src"
+            ],
+            "cppStandard": "c++14",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/local/bin/gcc"
+        }
+    ],
+    "version": 4
+}
